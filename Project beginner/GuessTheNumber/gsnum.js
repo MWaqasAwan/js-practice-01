@@ -43,7 +43,7 @@ const validateGuess = (vg) => {
 
 const checkGuess = (cg) => {
     if (cg === randomNum) {
-        displayMessage(`Your Guess is Rights : ${randomNum}`);
+        displayMessage(`Your Guess is Rights ipt: ${randomNum}`);
         submit.setAttribute('disabled', '');
         EndGame();
     } else if (cg < randomNum) {
