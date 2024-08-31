@@ -1,0 +1,42 @@
+.canvas{
+    text-align: center;
+}
+
+h1,h2{
+    color:white;
+}
+#grey {
+    display: inline-block; /* Ensures the span respects width and height */
+    width: 100px; /* Set the desired width */
+    height: 100px; /* Set the desired height */
+    background-color: grey; /* Set the desired background color */
+    border-radius: 5px ; /* Optional: Rounds the corners of the span */
+    border: 1px solid black;
+
+}
+#blue {
+    display: inline-block; /* Ensures the span respects width and height */
+    width: 100px; /* Set the desired width */
+    height: 100px; /* Set the desired height */
+    background-color: blue; /* Set the desired background color */
+    border-radius: 5px; /* Optional: Rounds the corners of the span */
+    border: 1px solid black;
+
+}
+#yellow {
+    display: inline-block; /* Ensures the span respects width and height */
+    width: 100px; /* Set the desired width */
+    height: 100px; /* Set the desired height */
+    background-color: yellow; /* Set the desired background color */
+    border-radius: 5px; /* Optional: Rounds the corners of the span */
+    border: 1px solid black;
+
+}
+#white {
+    display: inline-block; /* Ensures the span respects width and height */
+    width: 100px; /* Set the desired width */
+    height: 100px; /* Set the desired height */
+    background-color: white; /* Set the desired background color */
+    border-radius: 5px; /* Optional: Rounds the corners of the span */
+    border: 1px solid black;
+}

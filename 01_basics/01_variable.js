@@ -45,6 +45,60 @@
 
 // console.log(Math.floor(Math.random() * (max - min + 1)) + min)
 
+// const hun = 100
+
+// console.log(hun.tolocalString());
+
+// const sum = (username = "Waqas") =>{
+//     if(!username){
+//          console.log("Please Loged in")
+//          return
+//     }else{
+//         return `${username} just logged in`
+
+//     }
+// }
+
+// console.log(sum("Waqas"));
+// console.log(sum());
+
+// const month = 4
+
+// switch (month) {
+//     case 1:
+//         console.log("Januaray");
+//         break;
+//     case 2:
+//         console.log("feb");
+//         break;
+//     case 3:
+//         console.log("march");
+//         break;
+//     case 4:
+//         console.log("april");
+//         break;
+//     case 4:
+//         console.log("may");
+//         break;
+
+//     default:
+//         console.log("no month");
+        
+//         break;
+// }
+
+const greeting = "Waqas Awan"
+
+// for (const greet of greeting) {
+//     if(greet === " "){
+//         break
+//     }
+//     console.log(`check in string of index ${greet}`);
+    
+// }
+
+
+
 
 
 
